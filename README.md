@@ -7,7 +7,7 @@
 
 **Installation**
 
- To install you just need to extract the contents into the Mod Folder (you can find the mod loader here https://github.com/Aussiemon/Gauntlet-Slayer-Edition-Mod-Loader/tree/main )
+ To install you just need to extract the contents of the mod (Found under "releases" on the right) into the Mod Folder (you can find the mod loader here https://github.com/Aussiemon/Gauntlet-Slayer-Edition-Mod-Loader/tree/main )
  You can find a step by step guide here: https://www.youtube.com/watch?v=YiHv1Hnhmpo
  
 **Uninstalling**
