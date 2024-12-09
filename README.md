@@ -14,3 +14,4 @@
 
  Simply remove the "mod" folder from your games base directory, and then run a validation check in steam. Or if you made a backup of the Contents folder simply drag the original 9e13b2414b41b842 back into the Contents folder and overwrite the modded version
 
+Special thanks to NaturalBornCamper for telling me to "git gud"
