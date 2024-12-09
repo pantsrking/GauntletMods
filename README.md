@@ -4,6 +4,8 @@
  These mods are to increase the usability of various items and weapons, as well as increase the difficulty of the base game.
  If you are looking for what has changed/what the various updates look like, you can reference this doc: https://docs.google.com/spreadsheets/d/e/2PACX-1vSfsMqwef7iAWKhtHhQQnJ5oTKv-PPJE1pd_SQRdwc8vawOF17ffCnCwFJ8pJothJhKwvqcEp_V7JbH/pubhtml
 
+**Difficulty Mod**
+These will overwrite the default Hard, and Endless difficulties with custom difficulties. You can revert back at and time by deleting the difficulty LUA file, or replacing it with the LUA found in the "Normal" game folder.
 
 **Installation**
 
