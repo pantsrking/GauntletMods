@@ -6,6 +6,7 @@
 
 **Difficulty Mod**
 These will overwrite the default Hard, and Endless difficulties with custom difficulties. You can revert back at and time by deleting the difficulty LUA file, or replacing it with the LUA found in the "Normal" game folder.
+You will put the "Lua" folder conatined in the download into the mod folder - not the parent *difficulty name* folder. Or if you already have a Lua folder, you can just copy the "difficutly_manager" into the Managers folder under LUA.
 
 **Installation**
 
