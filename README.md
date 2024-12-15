@@ -12,6 +12,9 @@ You will put the "Lua" folder conatined in the download into the mod folder - no
 
  To install you just need to extract the contents of the mod (Found under "releases" on the right) into the Mod Folder (you can find the mod loader here https://github.com/Aussiemon/Gauntlet-Slayer-Edition-Mod-Loader/tree/main )
  You can find a step by step guide here: https://www.youtube.com/watch?v=YiHv1Hnhmpo
+It will look like this:
+![image](https://github.com/user-attachments/assets/16bd5615-21e9-4fb0-b78d-b53f6f17a6b5)
+
  
 **Uninstalling**
 
